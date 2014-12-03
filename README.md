@@ -55,21 +55,28 @@ The data was loaded by using the R function [loadExerciseData.R](loadExerciseDat
 
 ### Plot 1
 
+R Script to generate image - [plot1.R](plot1.R) 
 
 ![plot1](plot1.png) 
 
 
 ### Plot 2
 
+R Script to generate image - [plot2.R](plot2.R) 
+
 ![plot2](plot2.png) 
 
 
 ### Plot 3
 
+R Script to generate image - [plot3.R](plot3.R) 
+
 ![plot3](plot3.png) 
 
 
 ### Plot 4
+
+R Script to generate image - [plot4.R](plot4.R) 
 
 ![plot4](plot4.png) 
 
